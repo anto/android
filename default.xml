@@ -267,8 +267,8 @@
 <project path="system/wlan/ti" name="tpruvot/android_system_wlan_ti" revision="gingerbread" />
 
 <!-- note: for defy+, use "ics" for jordan revision, and "ics-plus" for proprietary_vendor_motorola -->
-<project path="device/motorola/jordan" name="tpruvot/android_device_motorola_jordan" revision="ics_mb525" />
-<project path="vendor/motorola" name="CyanogenDefy/proprietary_vendor_motorola" revision="ics" />
+<project path="device/motorola/jordan" name="anto/android_device_motorola_jordan" revision="ics_mb526" />
+<project path="vendor/motorola" name="anto/proprietary_vendor_motorola" revision="ics-plus" />
 
 <project path="device/moto/hijack" name= "MotoMagic/android_device_moto_hijack" />
 
